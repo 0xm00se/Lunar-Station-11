@@ -1,0 +1,12 @@
+Lunar-Station-11
+
+-main incremental loop
+-assets, basic drawn by hand, colored using krita.
+-background image of the moon, with based as it slowly develops overtime. (this will look bad)
+-work on code JS
+  -main loop gather lunar reousces
+  -consume said resouces building and developing technology
+  -grow food on the lunar surface (within domes)
+  -population growth
+  -adapt for mobile as well
+**more to come. 
